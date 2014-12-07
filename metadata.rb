@@ -1,3 +1,4 @@
+name "nanomsg"
 maintainer "David Charboneau"
 maintainer_email "david@adadabase.com"
 license "MIT"
